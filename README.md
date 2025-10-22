@@ -221,10 +221,6 @@ Potential areas for expansion:
 - Optimization algorithms for traffic management
 - Mobile application for traffic alerts
 
-## 📄 License
-
-This project is open source and available for educational and research purposes.
-
 ## 👥 Author
 
 Created by [thrkingunknown](https://github.com/thrkingunknown)
